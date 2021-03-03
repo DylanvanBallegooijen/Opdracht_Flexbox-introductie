@@ -1,0 +1,5 @@
+.blogpost {
+    width: 300px; border: 7px solid rgb(223, 21, 21);
+    display: wrap;
+    flex-direction:row
+}
